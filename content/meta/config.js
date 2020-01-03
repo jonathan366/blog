@@ -1,28 +1,29 @@
 module.exports = {
-  siteTitle: "Atte Juvonen", // <title>
-  shortSiteTitle: "Atte Juvonen", // <title> ending for posts and pages
-  siteDescription: "Atte Juvonen",
-  siteUrl: "https://www.attejuvonen.fi",
+  siteTitle: "LearnRPA", // <title>
+  shortSiteTitle: "LearnRPA", // <title> ending for posts and pages
+  siteDescription: "Learn RPA",
+  siteUrl: "https://www.learnrpa.dev",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
   /* author */
-  authorName: "Atte Juvonen",
+  /*
+  authorName: "Jonathan Pereira",
   authorTwitterAccount: "",
   authorGithub: "https://github.com/baobabkoodaa",
   authorStackoverflow: "https://stackexchange.com/users/5678032/atte-juvonen?tab=accounts",
   authorLinkedin: "https://linkedin.com/in/atte-juvonen-86b886113",
   authorCodeforces: "https://codeforces.com/profile/baobab",
   authorYoutube: "https://www.youtube.com/channel/UCfHqfHoSYL0V_fXA_JQkeLw?view_as=subscriber",
-
+*/
   /* header text */
-  headerTitle: "atte juvonen",
+  headerTitle: "Learn RPA",
   headerSubTitle: "",
 
   /* manifest.json */
-  manifestName: "Atte Juvonen",
-  manifestShortName: "atteJuvonen", // max 12 characters
+  manifestName: "Learn RPA",
+  manifestShortName: "Learn RPA", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
